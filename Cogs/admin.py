@@ -38,7 +38,7 @@ class AdminCog(commands.Cog, name="Admin Commands"):
     async def load_cog(self, ctx, cog: str):
         """This command loads a cog."""
         try:
-            cog = "cogs." + cog
+            cog = "Cogs." + cog
             self.bot.load_extension(cog)
         except Exception as e:
             await ctx.author.send(f"**`ERROR:`** {type(e).__name__} - {e}")
@@ -50,7 +50,7 @@ class AdminCog(commands.Cog, name="Admin Commands"):
     async def unload_cog(self, ctx, cog: str):
         """This command unloads a cog."""
         try:
-            cog = "cogs." + cog
+            cog = "Cogs." + cog
             self.bot.unload_extension(cog)
         except Exception as e:
             await ctx.author.send(f"**`ERROR:`** {type(e).__name__} - {e}")
@@ -62,7 +62,7 @@ class AdminCog(commands.Cog, name="Admin Commands"):
     async def reload_cog(self, ctx, cog: str):
         """This command reloads a cog."""
         try:
-            cog = "cogs." + cog
+            cog = "Cogs." + cog
             self.bot.reload_extension(cog)
         except Exception as e:
             await ctx.author.send(f"**`ERROR:`** {type(e).__name__} - {e}")

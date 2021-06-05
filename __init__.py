@@ -21,7 +21,7 @@ if __name__ == "__main__":
     print("Loading bot cogs...\n")
     with os.scandir(path + r"\Cogs") as dir:
         for cog in dir:
-            if cog.name != "__pycache__":
+            if cog.name[-3:] == ".py":  # We only want files with .py extension
                 try:
                     bot.load_extension(f"Cogs.{cog.name}".strip(".py"))
                     print(f"SUCCESS - Loaded cog: {cog.name}")
@@ -29,6 +29,7 @@ if __name__ == "__main__":
                     print(f"\nERROR - Failed to load extension: {cog.name}.\n",
                           file=stderr)
                     print_exc()
+                    print("\n")
 
 
 @bot.event
