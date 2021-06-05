@@ -21,13 +21,14 @@ if __name__ == "__main__":
     print("Loading bot cogs...\n")
     with os.scandir(path + r"\Cogs") as dir:
         for cog in dir:
-            try:
-                bot.load_extension(f"Cogs.{cog.name}".strip(".py"))
-                print(f"SUCCESS - Loaded cog: {cog.name}")
-            except Exception as e:
-                print(f"\nERROR - Failed to load extension: {cog.name}.\n",
-                      file=stderr)
-                print_exc()
+            if cog.name != "__pycache__":
+                try:
+                    bot.load_extension(f"Cogs.{cog.name}".strip(".py"))
+                    print(f"SUCCESS - Loaded cog: {cog.name}")
+                except Exception as e:
+                    print(f"\nERROR - Failed to load extension: {cog.name}.\n",
+                          file=stderr)
+                    print_exc()
 
 
 @bot.event
