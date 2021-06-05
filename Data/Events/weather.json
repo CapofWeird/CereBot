@@ -1,0 +1,34 @@
+{
+    "Weather": [
+        {
+            "text": "A rain of teeth quickly sweeps the horizon. Are those canis nimbus approaching? The question is soon answered by the clattering of millions of teeth falling from the sky. They pile up on the tracks, forcing trains to a crawl while the air is punctured by the crunching of bone and metal.\n\nThe sound, the darkness, and the crawl of the journey through the storm can do strange things to a person. Some people say the teeth speak, beckoning them to dissolution (or in one memorable case, a very long game of rummy).",
+            "danger": 4,
+            "keepsake": "Lucky teeth that provide a one-time reroll of any die when making a Trait check or releasing a touchstone. This die can be used on a roll made by any traveller, for good or for ill. As they say in the poem, \"Teeth at night, traveller's delight / teeth in morning, travellers are mourning.\""
+        },
+        {
+            "text": "A chill wind blows from the north, forming crystals of ice where it touches. At first it's enjoyable; the sparkling blue and purple crystals scatter light throughout the region, rendering it a kaleidoscope of light. But then the cold starts to set in, and soon enough the windows of the train are covered in ice. Each breath streaks white smoke in the air, and the chill begins to sink into the bones.\n\nSome travellers threaten to stop the train, certain their destination isn't worth the risk. Others demand to plow through the ice accumulating on the tracks, taking care to keep heating systems running and exits clear.",
+            "danger": 3,
+            "keepsake": "A warm memory that provides +1 rank to an existing Trait."
+        },
+        {
+            "text": "The gas arrives suddenly, blanketing the train. Lights spark within the gas, bright and roaring, only to die a moment later. The tracks weep under the strain as the temperature increases, each passenger accosted with new thoughts: A hammer, an anvil, tempered steel.\n\nA weed on the edge of the tracks meets a light and collapses into small red flames. When they fade the plant is a sword. The thoughts come faster now, thoughts of your strengths and the strengths of others, how those strengths may be grown. Which of these strengths will you need for your journey?",
+            "danger": 2,
+            "keepsake": "The memory of a stranger, which allows a one-time reroll on the Almanac."
+        },
+        {
+            "text": "The shaking is almost imperceptible at first, but it's soon clear the train is being rocked by wind from vents alongside the tracks. It's possible that the train will end up derailed. Perhaps more concerning, the wind is accompanied by a haunting whistle and faint, inaudible words.\n\nOf more immediate consequence, however, is what to do. Should the train be derailed, how should you get it back onto the track? If it tips, who will help the injured and tell the train a story to calm it down? Be careful not to be picked up by the wind yourself; it's been said a person can travel hundreds of miles on the Whistling Winds, and not all destinations are friendly.",
+            "danger": 3,
+            "keepsake": "A newfound respect for one's body that provides a new rank 1 Trait."
+        },
+        {
+            "text": "Journeys are, by nature, liminal times. Participants try new things and become new people. That is not to say that travelers cannot long for home. This longing can extend to the crew, who voluntarily live in these in-between times. They are not immune to a cozy home, a freshly cooked meal, and a real bed.\n\nWhen the scent of cinnamon bread wafts through the air, it brings the taste of home. While you, as travelers, may be able to resist, those on longer journeys may find themselves concentrating more on the bread than the train. If they want to stop, who will start the train again? Perhaps it might be better to commandeer the train until the nostalgia passes.",
+            "danger": 2,
+            "keepsake": "A rumbling in the gut that allows a one-time reroll on the Atlas – as long as the first Stop does not have an abundance of bread."
+        },
+        {
+            "text": "Turning into a tornado is not recommended. One only needs to consider the case of Maryon the Unwise. Everybody knows what happened to them. And yet, people still try. It's unknown whether this tornado wants to eat the train or destroy it, but it is impossible to ask. There are ways to stop these tornadoes: A virduz song, or sometimes an offering of yellow jasper. Others simply steer the train into inhospitable territory; no tornado will follow a train underground, after all.\n\nWhatever is motivating this particular tornado, it is determined to ruin the tracks, which runs counter to your plans. You'd probably best do something about that.",
+            "danger": 3,
+            "keepsake": "A bracing breeze worth a one-time reroll of any die when making a Trait check or releasing a touchstone."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "Wildlife, Normal": [
+        {
+            "text": "Ants normally walk in lines. They do not, however, normally carry metal discs, pieces of colored ceramic, or small bits of cable. There's no reason for concern: if these ants are building a death ray, they are doing so far enough away that their destination isn't viewable from the train. On the other hand, they tend to become cross when they get on the train and the train's travel ruins their straight line. Of course they can't talk; don't be silly! They certainly know Morse Code, though. Don't you know that pedestrians have the right of way?",
+            "danger": 1,
+            "keepsake": "A grim memory or tattered keepsake that provides +1 rank to an existing Trait."
+        },
+        {
+            "text": "What do griffins and house cats have in common? A love of warm places. To this end, two griffins have begun to tussle over the train's exhaust chimney. They don't particularly care about the passengers, but the large beasts have a habit of knocking one another off their preferred perch and screeching in a way that makes it hard to enjoy the local guitar player (or sleep). How long can this racket continue? Quite a while, it turns out, as griffins, being mythical, don't require sleep.\n\nThe same cannot be said for all the denizens of the train. The longer the screeching and rocking continues, the more tempers flare. One group wants to remove the griffins, while another, more ecologically minded group refuse to disturb their natural practices. No mythical beasts will exist if we keep chasing them off trains!",
+            "danger": 3,
+            "keepsake": "A cluster of worn feathers that grants a one-time reroll on the Almanac."
+        },
+        {
+            "text": "Some say the \"Night Parade of Abandoned Demons\" is nothing more than a spectacle to distract travelers while thieves make sport. Others claim the Night Parade is more: demons with the faces of your close kin calling out, wishing for someone to take their place in the revel. Both parties agree: do not leave the train.\n\nIgnore the visages of your loved ones, the sounds of suffering, and any offered delights. Whatever the Night Parade is, be it farce or a prison, whomever is heading the festivities does not share your interests. Close your eyes and look away. Do not listen to sweet and terrible songs. And above all, do not open the door when something knocks. On the other hand, hey - free palanquin ride!",
+            "danger": 5,
+            "keepsake": "A healthy sense of alertness worth a one-time reroll of any die when making a Trait check or releasing a touchstone."
+        },
+        {
+            "text": "At one point, a foolish businesswoman decided to make her fortune off the skins of the sand rays that glide silently underneath the Desert Sea. It didn't work, of course. The majestic creatures leaping next to the train are deadly hunters, and woe be unto anyone who thinks they can best these predators in their hunting ground.\n\nYou are welcome to feed the sand rays. Do not feed them anything that tastes of mint, or they will go mad. It is best to stick to simple food like escargot or goats. Should a ray knock into the train, be ready to free it lest the pack's frenzy instinct be roused.",
+            "danger": 3,
+            "keepsake": "A glimpse of nature, glorious and cruel, worth a one-time reroll of any die when making a Trait check or releasing a touchstone. This die can be used on a roll made by any traveller."
+        },
+        {
+            "text": "Chandler beetles are some of the rare insects that have adapted to living on trains (and other traveling vehicles, in a pinch). Perhaps the entire species is possessed of an odd sort of wanderlust, or maybe they too are travelers in search of a destination. Whatever the reason, your train is infested with them. The beetles coat the ceiling and drip wax onto any traveller unfortunate enough to stand in the wrong place.\n\nThey also tend to bite if disturbed, so woe be unto you should they take up residence on the door in or out of your car. It is best to avoid a chandler beetles bite, as not only do they sting, but they have the power to make their targets forget. Perhaps the only positive to a chandler beetle infestation is that their wax makes for absolutely stunning candles.",
+            "danger": 3,
+            "keepsake": "An illuminating candle that provides a new rank 1 Trait."
+        },
+        {
+            "text": "It was once a common practice for coal miners to take bat cameras with them into the mines. These bats were necessary for the morale of the workers and provided invaluable photographs for selling to amateur coal enthusiasts. Unfortunately, management is not fond of these creatures. Banned from the mines, the bats have a habit of swarming in dark places. Such as the cave the train is traveling through.\n\nThe bats themselves are harmless, but the flashbulbs are… to put it mildly, very annoying. Without humans to tell them when to photograph, the bats flash anytime they are startled or interested, which is quite often. In fact, one of the most common causes of flash is a preceding flash; this can result in a flash cascade.",
+            "danger": 2,
+            "keepsake": "Photographs of the road ahead that allow a one-time reroll on the Atlas."
+        }
+    ]
+}
